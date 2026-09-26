@@ -1,0 +1,13 @@
+Day 1
+ Task_1 What Is Arduino IOT Cloud? & How to Setup To Cloud?
+ Task_2 Blink LED USing Arduio Cloud
+ Task_3 RGB LED Using Arduino Cloud
+ Task_4 Show Distance On Cloud Using Ultrasonic Sensor
+ Task_5 Control Servo Using Arduino IOT Cloud
+ Task_6 Control Relay Using Arduino IOT Dashboard On Android
+ Task_7 Basics Of Hardware PCB, Soldering And Embeded System's
+ 
+ After a Weak They asfed Me to make a Mini Project Using Arduino IOT CLoud.
+ 
+ Task _8_Mini Project :-
+                Home Automation & Safety using Arduino IOT Cloud and assemble Them in a Single PCB.
